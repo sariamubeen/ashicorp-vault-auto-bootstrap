@@ -1,0 +1,1 @@
+# ashicorp-vault-auto-bootstrap
